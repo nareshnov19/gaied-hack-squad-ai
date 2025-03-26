@@ -1,6 +1,6 @@
 # 🚀 Project Name
 
-Hacksquad
+HacksquadAI
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
