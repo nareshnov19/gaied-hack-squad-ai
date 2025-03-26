@@ -1,5 +1,7 @@
 # 🚀 Project Name
 
+Hacksquad
+
 ## 📌 Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
